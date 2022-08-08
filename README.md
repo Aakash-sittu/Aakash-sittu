@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **C and C++.**
 
+- 🎛 Experience in working with **Arduino and Raspberry Pi.**
+
 - 📫 Reach me at **atcodeplus@gmail.com**
 
 - ⚡ Fun fact **Pixar Cars had eyes not headlights.**
