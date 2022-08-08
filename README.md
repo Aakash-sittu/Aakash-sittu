@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-sittu&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-sittu" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development.**
 
-- 💬 Ask me about **C and C++**
+- 💬 Ask me about **C and C++.**
 
-- 📫 How to reach me **atcodeplus@gmail.com**
+- 📫 Reach me at **atcodeplus@gmail.com**
 
 - ⚡ Fun fact **Pixar Cars had eyes not headlights.**
 
