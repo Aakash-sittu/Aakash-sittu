@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **C and C++.**
 
+- ⌨️ Learned **Penetration Testing** and **Securing Home Networks** with **Kali Linux**.
+
 - 🎛 Experience in working with **Arduino and Raspberry Pi.**
 
 - 📫 Reach me at **atcodeplus@gmail.com**
