@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/aakash ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash ." height="30" width="40" /></a>
 <a href="https://kaggle.com/aakash-sittu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aakash-sittu" height="30" width="40" /></a>
 <a href="https://instagram.com/aah._.kash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aah._.kash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/code+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code+" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCy9ljlQTB3K__ctNvpL9_uw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code+" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
